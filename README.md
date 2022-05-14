@@ -1,5 +1,5 @@
 # Sales Insight for Atliq
-I made a dashboard for past sales and revenue of Atliq, a hardware company of India, from Oct 2017 to June 2020.
+I made a dashboard in Tableau for past sales and revenue of Atliq, a hardware company of India, from Oct 2017 to June 2020.
 
 I included 7 things in this dashboard :
 - Total Revenue
