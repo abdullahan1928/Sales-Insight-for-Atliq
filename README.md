@@ -1,7 +1,9 @@
 # Sales Insight for Atliq
-I made two dashboards in Tableau for Revenue and Profit Analysis of Atliq, a hardware company of India, from Oct 2017 to June 2020.
+I made two dashboards in Tableau for following Analysis of Atliq, a hardware company of India, from Oct 2017 to June 2020:\
+1. Revenue Analysis
+2. Profit Analysis
 
-## Revenue Analysis
+## 1- Revenue Analysis
 I included 7 things in Revenue Analysis dashboard :
 - Total Revenue
 - Revenue by Market
@@ -17,7 +19,7 @@ These parameters and their graphs can be specified by time:
 
 ![Dashboard](https://user-images.githubusercontent.com/74107257/168422818-29a50219-5d11-479c-afc2-87a12652cb36.png)
 
-## Profit Analysis
+## 2- Profit Analysis
 I included 7 things in Profit Analysis dashboard :
 - Total Revenue
 - Revenue by Market
