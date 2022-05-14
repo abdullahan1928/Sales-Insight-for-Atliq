@@ -4,7 +4,7 @@ I made two dashboards in Tableau for following Analysis of Atliq, a hardware com
 2. Profit Analysis
 
 ## 1- Revenue Analysis
-I included 7 things in Revenue Analysis dashboard :
+I included 7 things in Revenue Analysis Dashboard :
 - Total Revenue
 - Revenue by Market
 - Total Sales
@@ -20,7 +20,7 @@ These parameters and their graphs can be specified by time:
 ![Dashboard](https://user-images.githubusercontent.com/74107257/168422818-29a50219-5d11-479c-afc2-87a12652cb36.png)
 
 ## 2- Profit Analysis
-I included 7 things in Profit Analysis dashboard :
+I included 7 things in Profit Analysis Dashboard :
 - Total Revenue
 - Revenue by Market
 - Total Profit
